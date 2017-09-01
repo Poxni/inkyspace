@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HedgePhysics.CSharp", "HedgePhysics.CSharp.csproj", "{1BDC28C9-B3A9-44AE-6B57-EF6F75D85A70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HedgePhysics.CSharp.Plugins", "HedgePhysics.CSharp.Plugins.csproj", "{E9140DAB-70FC-A8ED-ED2D-6BA3830AF2C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HedgePhysics.CSharp.Editor", "HedgePhysics.CSharp.Editor.csproj", "{7B7D4E79-7AC4-05A4-884C-051D8501F8C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HedgePhysics.CSharp.Editor.Plugins", "HedgePhysics.CSharp.Editor.Plugins.csproj", "{D91C157A-6BF6-51B8-3867-84271CC12627}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BDC28C9-B3A9-44AE-6B57-EF6F75D85A70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BDC28C9-B3A9-44AE-6B57-EF6F75D85A70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BDC28C9-B3A9-44AE-6B57-EF6F75D85A70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BDC28C9-B3A9-44AE-6B57-EF6F75D85A70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9140DAB-70FC-A8ED-ED2D-6BA3830AF2C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9140DAB-70FC-A8ED-ED2D-6BA3830AF2C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9140DAB-70FC-A8ED-ED2D-6BA3830AF2C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9140DAB-70FC-A8ED-ED2D-6BA3830AF2C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B7D4E79-7AC4-05A4-884C-051D8501F8C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B7D4E79-7AC4-05A4-884C-051D8501F8C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B7D4E79-7AC4-05A4-884C-051D8501F8C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B7D4E79-7AC4-05A4-884C-051D8501F8C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D91C157A-6BF6-51B8-3867-84271CC12627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D91C157A-6BF6-51B8-3867-84271CC12627}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D91C157A-6BF6-51B8-3867-84271CC12627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D91C157A-6BF6-51B8-3867-84271CC12627}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
